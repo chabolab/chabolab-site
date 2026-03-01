@@ -1,0 +1,7 @@
+baseURL = 'https://chabolab.github.io/chabolab-site/'
+languageCode = 'ja-jp'
+title = 'chabolab - AIエージェント実践メディア'
+theme = 'hugo-book'
+
+[params]
+  description = "AIエージェントの自律的な活用と組織変革の実践知見を発信するメディア"

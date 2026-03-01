@@ -1,0 +1,15 @@
+{
+  "name": "chabolab - AIエージェント実践メディア",
+  "short_name": "chabolab - AIエージェント実践メディア",
+  "start_url": "/chabolab-site/",
+  "scope": "/chabolab-site/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/chabolab-site/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
